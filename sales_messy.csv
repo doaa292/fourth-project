@@ -1,0 +1,206 @@
+Date,Region,Units Sold,UnitPrice, revenue ,Notes, Product 
+2024-01-01,west,54,1.5,81.0,urgent,Tea
+2024-01-02,north,39,3.0,117.0,N/A,Water
+2024-01-03, EAST,51,3.0,153.0,N/A,Tea
+2024-01-04,north,15,2.5,37.5,  ,Tea
+2024-01-05,north,12,2.0,24.0,urgent,Coffee
+2024-01-06,south ,113,,,urgent,Water
+2024-01-07, EAST,105,,,urgent,Water
+2024-01-08, EAST,29,2.5,72.5,urgent,Coffee
+2024-01-09, EAST,18,3.0,54.0,N/A,Juice
+2024-01-10,north,16,1.5,24.0,N/A,Tea
+2024-01-11,west,119,3.0,357.0,urgent,Soda
+2024-01-12, EAST,62,2.5,155.0,  ,Tea
+2024-01-13,South,18,,,,Tea
+2024-01-14,north,91,3.0,273.0,,Juice
+2024-01-15,south ,57,,,  ,Tea
+2024-01-16,west,54,1.5,81.0,urgent,Coffee
+2024-01-17,South,89,,,N/A,Coffee
+2024-01-18,South,100,,,,Water
+2024-01-19,south ,89,2.0,178.0,,Soda
+2024-01-20,west,116,2.0,232.0,,Tea
+2024-01-21,north,61,2.0,122.0,  ,Tea
+2024-01-22,North,22,,,urgent,Juice
+2024-01-23,west,8,2.5,20.0,,Coffee
+2024-01-24,south ,11,,,urgent,Soda
+2024-01-25,South,116,2.5,290.0,,Water
+2024-01-26,north,0,2.5,0.0,  ,Coffee
+2024-01-27,west,57,2.0,114.0,  ,Water
+2024-01-28,North,0,3.0,0.0,,Juice
+2024-01-29,North,110,1.5,165.0,urgent,Juice
+2024-01-30, EAST,33,2.0,66.0,,Tea
+2024-01-31, EAST,95,2.0,190.0,urgent,Soda
+2024-02-01,south ,117,3.0,351.0,,Water
+2024-02-02,west,47,1.5,70.5,N/A,Coffee
+2024-02-03,west,88,,,N/A,Juice
+2024-02-04,South,103,,,N/A,Tea
+2024-02-05,South,108,2.0,216.0,N/A,Tea
+2024-02-06,South,116,1.5,174.0,,Water
+2024-02-07, EAST,0,2.0,0.0,N/A,Juice
+2024-02-08,west,15,2.5,37.5,  ,Soda
+2024-02-09,west,60,2.0,120.0,  ,Juice
+2024-02-10,North,102,2.0,204.0,,Water
+2024-02-11, EAST,63,,,N/A,Water
+2024-02-12,north,62,,,N/A,Juice
+2024-02-13, EAST,68,,,N/A,Water
+2024-02-14,north,21,2.5,52.5,,Juice
+2024-02-15,North,92,,,urgent,Coffee
+2024-02-16,south ,118,1.5,177.0,,Juice
+2024-02-17,west,66,3.0,198.0,urgent,Juice
+2024-02-18,North,75,1.5,112.5,N/A,Water
+2024-02-19,west,25,1.5,37.5,N/A,Water
+2024-02-20,South,15,,,,Tea
+2024-02-21,south ,50,3.0,150.0,,Tea
+2024-02-22,south ,100,3.0,300.0,urgent,Coffee
+2024-02-23,North,85,3.0,255.0,  ,Tea
+2024-02-24,south ,56,2.5,140.0,urgent,Juice
+2024-02-25,north,28,,,,Water
+2024-02-26,south ,77,3.0,231.0,,Tea
+2024-02-27,west,91,2.5,227.5,,Tea
+2024-02-28,west,68,2.0,136.0,,Coffee
+2024-02-29,west,46,2.0,92.0,,Coffee
+2024-03-01,west,112,2.5,280.0,  ,Juice
+2024-03-02,north,93,2.5,232.5,urgent,Water
+2024-03-03, EAST,109,,,urgent,Coffee
+2024-03-04,South,61,,,,Tea
+2024-03-05,North,115,2.0,230.0,urgent,Water
+2024-03-06,west,68,3.0,204.0,,Water
+2024-03-07,south ,75,2.0,150.0,N/A,Tea
+2024-03-08,west,15,3.0,45.0,,Coffee
+2024-03-09,south ,89,3.0,267.0,urgent,Tea
+2024-03-10,South,89,,,,Water
+2024-03-11,South,47,1.5,70.5,,Soda
+2024-03-12,South,84,1.5,126.0,N/A,Soda
+2024-03-13,south ,38,2.5,95.0,,Juice
+2024-03-14,west,99,,,,Tea
+2024-03-15,South,32,3.0,96.0,urgent,Tea
+2024-03-16,north,93,1.5,139.5,  ,Juice
+2024-03-17,south ,100,3.0,300.0,,Juice
+2024-03-18,south ,22,1.5,33.0,,Juice
+2024-03-19,west,9,1.5,13.5,N/A,Water
+2024-03-20,south ,117,1.5,175.5,,Tea
+2024-03-21,south ,68,,,  ,Water
+2024-03-22,South,99,2.0,198.0,urgent,Juice
+2024-03-23,west,33,3.0,99.0,  ,Tea
+2024-03-24,South,51,,,urgent,Water
+2024-03-25,South,94,,,,Water
+2024-03-26,west,9,,,urgent,Juice
+2024-03-27,North,18,,,N/A,Tea
+2024-03-28,South,57,,,N/A,Juice
+2024-03-29,north,95,2.5,237.5,N/A,Tea
+2024-03-30,north,0,3.0,0.0,N/A,Soda
+2024-03-31,south ,119,,,  ,Coffee
+2024-04-01,north,68,3.0,204.0,,Coffee
+2024-04-02,south ,108,2.5,270.0,urgent,Coffee
+2024-04-03,North,3,2.5,7.5,urgent,Juice
+2024-04-04,west,15,3.0,45.0,N/A,Soda
+2024-04-05,west,23,1.5,34.5,N/A,Tea
+2024-04-06,west,79,2.0,158.0,,Water
+2024-04-07,north,118,1.5,177.0,,Tea
+2024-04-08,North,1,1.5,1.5,  ,Water
+2024-04-09,north,112,1.5,168.0,urgent,Tea
+2024-04-10,north,91,,,,Soda
+2024-04-11,North,31,2.5,77.5,,Water
+2024-04-12,North,90,1.5,135.0,urgent,Juice
+2024-04-13,North,83,2.5,207.5,  ,Tea
+2024-04-14,North,23,3.0,69.0,,Tea
+2024-04-15,west,11,2.0,22.0,,Water
+2024-04-16, EAST,49,3.0,147.0,,Juice
+2024-04-17, EAST,34,3.0,102.0,  ,Juice
+2024-04-18,North,32,,,,Soda
+2024-04-19, EAST,32,2.0,64.0,  ,Juice
+2024-04-20, EAST,60,3.0,180.0,urgent,Juice
+2024-04-21,North,50,3.0,150.0,N/A,Juice
+2024-04-22, EAST,42,2.0,84.0,,Coffee
+2024-04-23,north,100,2.0,200.0,,Soda
+2024-04-24,south ,11,3.0,33.0,urgent,Tea
+2024-04-25,south ,66,2.0,132.0,  ,Water
+2024-04-26,North,64,3.0,192.0,urgent,Tea
+2024-04-27,west,32,3.0,96.0,,Soda
+2024-04-28,North,39,,,  ,Water
+2024-04-29,west,73,1.5,109.5,N/A,Soda
+2024-04-30,south ,42,3.0,126.0,urgent,Juice
+2024-05-01,North,43,2.5,107.5,,Water
+2024-05-02,South,28,1.5,42.0,,Juice
+2024-05-03,north,12,1.5,18.0,  ,Tea
+2024-05-04, EAST,11,1.5,16.5,urgent,Tea
+2024-05-05,west,94,,,urgent,Water
+2024-05-06,South,45,3.0,135.0,N/A,Water
+2024-05-07, EAST,1,,,N/A,Soda
+2024-05-08, EAST,114,3.0,342.0,,Soda
+2024-05-09,North,113,,,,Juice
+2024-05-10, EAST,34,,,,Water
+2024-05-11,north,86,2.5,215.0,,Tea
+2024-05-12,South,80,,,,Soda
+2024-05-13, EAST,89,2.0,178.0,,Soda
+2024-05-14,North,7,2.5,17.5,  ,Tea
+2024-05-15,north,92,,,N/A,Soda
+2024-05-16,south ,25,1.5,37.5,,Juice
+2024-05-17,South,73,2.0,146.0,N/A,Water
+2024-05-18, EAST,89,2.0,178.0,N/A,Tea
+2024-05-19,North,33,2.0,66.0,,Water
+2024-05-20,south ,114,2.5,285.0,  ,Soda
+2024-05-21,south ,104,,,urgent,Soda
+2024-05-22,west,6,,,  ,Tea
+2024-05-23,north,67,1.5,100.5,  ,Juice
+2024-05-24, EAST,57,1.5,85.5,N/A,Coffee
+2024-05-25,North,116,2.0,232.0,  ,Tea
+2024-05-26,west,113,1.5,169.5,,Coffee
+2024-05-27,north,108,2.5,270.0,N/A,Coffee
+2024-05-28,west,74,,,,Juice
+2024-05-29,South,28,2.0,56.0,urgent,Coffee
+2024-05-30,north,119,1.5,178.5,N/A,Coffee
+2024-05-31,north,35,2.5,87.5,urgent,Juice
+2024-06-01, EAST,88,2.5,220.0,N/A,Coffee
+2024-06-02,north,20,1.5,30.0,,Coffee
+2024-06-03,west,35,,,  ,Coffee
+2024-06-04,north,9,1.5,13.5,,Tea
+2024-06-05, EAST,100,2.0,200.0,urgent,Tea
+2024-06-06, EAST,72,1.5,108.0,  ,Tea
+2024-06-07,South,23,2.5,57.5,N/A,Juice
+2024-06-08,west,63,1.5,94.5,  ,Soda
+2024-06-09,south ,98,,,,Coffee
+2024-06-10,south ,48,3.0,144.0,  ,Coffee
+2024-06-11,north,98,1.5,147.0,,Juice
+2024-06-12,South,111,,,  ,Coffee
+2024-06-13,North,35,,,,Tea
+2024-06-14,north,81,2.5,202.5,urgent,Soda
+2024-06-15,South,112,,,,Water
+2024-06-16,west,102,,,N/A,Coffee
+2024-06-17,west,95,,,  ,Tea
+2024-06-18,west,23,,,,Water
+2024-06-19,west,22,2.0,44.0,N/A,Soda
+2024-06-20,west,61,2.0,122.0,N/A,Water
+2024-06-21,South,95,2.5,237.5,,Tea
+2024-06-22,South,36,1.5,54.0,urgent,Water
+2024-06-23, EAST,11,,,urgent,Juice
+2024-06-24,south ,112,1.5,168.0,,Water
+2024-06-25,west,54,1.5,81.0,urgent,Coffee
+2024-06-26,North,12,2.5,30.0,  ,Coffee
+2024-06-27,South,22,,,urgent,Juice
+2024-06-28,North,88,,,,Tea
+2024-06-29,North,98,3.0,294.0,urgent,Coffee
+2024-06-30,North,104,1.5,156.0,  ,Soda
+2024-07-01, EAST,29,1.5,43.5,,Coffee
+2024-07-02,South,16,2.0,32.0,,Coffee
+2024-07-03,North,112,3.0,336.0,,Tea
+2024-07-04,west,61,2.0,122.0,,Water
+2024-07-05,north,83,2.0,166.0,,Coffee
+2024-07-06,North,111,2.0,222.0,N/A,Juice
+2024-07-07, EAST,88,2.5,220.0,N/A,Water
+2024-07-08,South,85,2.5,212.5,,Soda
+2024-07-09, EAST,12,2.0,24.0,,Tea
+2024-07-10,North,58,3.0,174.0,  ,Soda
+2024-07-11,South,18,1.5,27.0,  ,Water
+2024-07-12,north,48,3.0,144.0,urgent,Water
+2024-07-13,North,99,,,,Water
+2024-07-14, EAST,11,2.5,27.5,N/A,Soda
+2024-07-15,south ,60,1.5,90.0,,Water
+2024-07-16,west,104,1.5,156.0,urgent,Soda
+2024-07-17, EAST,18,,,  ,Water
+2024-07-18,South,75,,,N/A,Juice
+2024-02-28,west,68,2.0,136.0,,Coffee
+2024-02-10,North,102,2.0,204.0,,Water
+2024-02-04,South,103,,,N/A,Tea
+2024-04-12,North,90,1.5,135.0,urgent,Juice
+2024-07-03,North,112,3.0,336.0,,Tea
